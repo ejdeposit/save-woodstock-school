@@ -9,7 +9,10 @@
       {"name": "资源", "path": "./resources.html"}
     ]
   },
-  "homeTitle": "节省伍德斯托克小学",
+  "home": {
+    "title": "节省伍德斯托克小学",
+    "imgPath": "../unityCircle.jpg"
+  },
   "takeAction": "采取行动",
   "eventsTitle": "活动",
   "resourcesTitle" : "资源",

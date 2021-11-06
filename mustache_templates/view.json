@@ -10,9 +10,9 @@
     ]
   },
   "home": {
-    "title": false
+    "title": "Save Woodstock School!",
+    "imgPath": "unityCircle.jpg"
   },
-  "homeTitle": "Save Woodstock School!",
   "actionTitle": "Action",
   "eventsTitle": "Events",
   "resourcesTitle" : "Resources",

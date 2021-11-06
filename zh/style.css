@@ -3,7 +3,11 @@
 */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
-
+:root {
+    --primary-color: #235bcc;
+    --secondary-color: #B8860B;
+    --tertiary-color: #f6cc25;
+}
 body{
     font-family: 'Open Sans', sans-serif;
     margin-top:0px;
@@ -28,7 +32,7 @@ div.item, form.item{
     box-shadow: 1px 1px #cccccc;
 }
 h1, h2{
-    color:  #B8860B; 
+    color:  var(--secondary-color); 
 }
 h2#sub-title{
     font-size: 1.3rem;
@@ -39,7 +43,7 @@ a{
 /* nav bar */
 .nav-bar{
     display: flex;
-    background-color: #235bcc;
+    background-color: var(--primary-color);
     height: 60px;
     font-size: 1.5rem;
     justify-content: space-between;
@@ -75,7 +79,7 @@ div.drop-down{
     font-size: 1.5rem;
     width: 100%;
     position: absolute;
-    background-color: #4bc4eb;
+    background-color: var(--primary-color);
     color:white;
 }
 div.drop-down{
@@ -95,6 +99,15 @@ div.drop-down div{
     div.dropdown{
         display: none;
     }
+}
+/* home */
+div#unity_circle {
+    width: 80%;
+}
+img#unity_circle {
+  display: block;
+  margin: 0 auto;
+  max-width: 80%;
 }
 /* about*/
 #about{

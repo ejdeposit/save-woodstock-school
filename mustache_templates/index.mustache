@@ -4,28 +4,28 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="style.css">
-        <script src="https://use.fontawesome.com/9837b97a2b.js"></script>
-        <title>Home - Save Woodstock School</title>
-        <!-- <link rel="icon" href="./favicon.png"> -->
-    </head>
-    <body>
-        <!-- navabar -->
-        {{> navPartial}} 
-        <!-- about content-->
-        <main>
-		<h1>{{homeTitle}}</h1>
-		<img src="unityCircle.jpg" alt="woodstock students standing in circle">
-        </main>
-        <!--[if lt IE 7]>
-            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
-        
-        <script src="script.js" async defer></script>
-    </body>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://use.fontawesome.com/9837b97a2b.js"></script>
+    <title>Home - Save Woodstock School</title>
+    <!-- <link rel="icon" href="./favicon.png"> -->
+  </head>
+  <body>
+    {{> navPartial}} 
+    <main>
+	  <h1>{{home.title}}</h1>
+      <div id="unity_circle">
+      </div>
+	  <!-- <img id="unity_circle" src="unityCircle.jpg" alt="woodstock students standing in circle"> -->
+	  <img id="unity_circle" src="{{{home.imgPath}}}" alt="woodstock students standing in circle">
+    </main>
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <script src="script.js" async defer></script>
+  </body>
 </html>
