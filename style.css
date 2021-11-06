@@ -118,6 +118,9 @@ img#unity_circle {
   margin: 0 auto;
   max-width: 66%;
 }
+.home-content {
+  max-width: 66%;
+}
 /* about*/
 #about{
     display:flex;
