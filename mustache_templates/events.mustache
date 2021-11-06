@@ -18,6 +18,14 @@
     {{> navPartial}} 
     <main>
 	    <h1>{{events.title}}</h1>
+      <div class="content">
+        {{#events.eventList}}
+          <h2>{{title}}</h2> 
+          {{textContent}}
+          {{{htmlContent}}}
+          <hr>
+        {{/events.eventList}}
+      </div>
     </main>
     <!--[if lt IE 7]>
         <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>

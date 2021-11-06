@@ -18,6 +18,11 @@
     {{> navPartial}} 
     <main>
 	    <h1>{{resources.title}}</h1>
+      <ul>
+        {{#resources.resourceList}}
+        <li><a href={{{htmlContent}}}>{{textContent}}</a></li>
+        {{/resources.resourceList}}
+      </ul>
     </main>
     <!--[if lt IE 7]>
         <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>

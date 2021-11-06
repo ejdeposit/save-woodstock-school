@@ -6,7 +6,7 @@
 :root {
     --primary-color: #235bcc;
     --secondary-color: #B8860B;
-    --tertiary-color: #f6cc25;
+    --tertiary-color: #cc3f23;
 }
 body{
     font-family: 'Open Sans', sans-serif;
@@ -31,15 +31,20 @@ div.item, form.item{
     border-radius: 8px;
     box-shadow: 1px 1px #cccccc;
 }
-h1, h2{
+h1 {
     color:  var(--secondary-color); 
+}
+h2 {
+    font-size: medium;
+    
 }
 h2#sub-title{
     font-size: 1.3rem;
 }
 a{
-    color:#f6cc25;
+    color: var(--tertiary-color);
 }
+
 /* nav bar */
 .nav-bar{
     display: flex;
@@ -70,6 +75,10 @@ a{
     color: #dddddd; 
     text-decoration:none; 
     cursor:pointer;  
+}
+a#translated_site{
+    font-size: 1.2rem;
+    color:#f6cc25;
 }
 /* mobile menu */
 #mobile-menu{
