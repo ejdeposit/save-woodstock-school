@@ -50,6 +50,14 @@ h2#sub-title{
 a{
     color: var(--tertiary-color);
 }
+@media (max-width: 610px){
+  h1 {
+    font-size: 2.5rem;
+  }
+  main {
+      padding: 1rem 1rem 1rem 1rem
+  }
+}
 
 /* nav bar */
 .nav-bar{
@@ -126,6 +134,21 @@ img#unity_circle {
 }
 .home-content {
   max-width: 66%;
+}
+@media (max-width: 610px){
+  .home-content {
+    max-width: 95%;
+  }
+  img#unity_circle {
+    max-width: 95%;
+  }
+}
+/*events */
+div#events {
+    max-width: 95%;
+}
+div#events a {
+    max-width: 95%;
 }
 /* about*/
 #about{
