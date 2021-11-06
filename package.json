@@ -1,0 +1,22 @@
+{
+  "name": "save-woodstock-school",
+  "version": "1.0.0",
+  "description": "save woodstock school site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejdeposit/save-woodstock-school.git"
+  },
+  "author": "Evan DePosit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ejdeposit/save-woodstock-school/issues"
+  },
+  "homepage": "https://github.com/ejdeposit/save-woodstock-school#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}

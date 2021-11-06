@@ -1,0 +1,11 @@
+{
+  "navLinks": [
+	  {"name": "Home", "path": "./index.html"},
+	  {"name": "Action", "path": "./action.html"},
+	  {"name": "Events", "path": "./events.html"}
+  ],
+  "home": "Home",
+  "action": "Action",
+  "events": "Events",
+  "schoolName" : "Woodstock"
+}

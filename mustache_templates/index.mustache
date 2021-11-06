@@ -16,26 +16,10 @@
     </head>
     <body>
         <!-- navabar -->
-        <nav>
-          <div class="nav-bar">
-            <div id="mobile-menu">
-              <i class="fa fa-bars"></i>
-            </div>
-            <div id="links">
-              <div><a href=".&#x2F;index.html">Home</a></div>
-              <div><a href=".&#x2F;action.html">Action</a></div>
-              <div><a href=".&#x2F;events.html">Events</a></div>
-            </div>
-            <div id="translations"></div>
-          </div>
-          <div class="hidden drop-down">
-            <div><a href=".&#x2F;index.html">Home</a></div>
-            <div><a href=".&#x2F;action.html">Action</a></div>
-            <div><a href=".&#x2F;events.html">Events</a></div>
-          </div> 
-        </nav>        <!-- about content-->
+        {{> navPartial}} 
+        <!-- about content-->
         <main>
-		<h1>Save Woodstock School </h1>
+		<h1>Save {{schoolName}} School </h1>
         </main>
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
