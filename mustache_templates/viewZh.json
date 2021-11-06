@@ -1,0 +1,12 @@
+{
+  "navLinks": [
+    {"name": "主页", "path": "./index.html"},
+    {"name": "采取行动", "path": "./action.html"},
+    {"name": "活动", "path": "./events.html"},
+    {"name": "资源", "path": "./resources.html"}
+  ],
+  "homeTitle": "伍德斯托克小学",
+  "takeAction": "Action",
+  "eventsTitle": "Events",
+  "resourcesTitle" : "Resources"
+}

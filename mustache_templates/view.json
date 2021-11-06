@@ -1,11 +1,15 @@
 {
   "navLinks": [
-	  {"name": "Home", "path": "./index.html"},
-	  {"name": "Action", "path": "./action.html"},
-	  {"name": "Events", "path": "./events.html"}
+    {"name": "Home", "path": "./index.html"},
+    {"name": "Take Action", "path": "./action.html"},
+    {"name": "Events", "path": "./events.html"},
+    {"name": "Resources", "path": "./resources.html"}
   ],
-  "home": "Home",
-  "action": "Action",
-  "events": "Events",
-  "schoolName" : "Woodstock"
+  "homeTitle": "Save Woodstock School!",
+  "actionTitle": "Action",
+  "eventsTitle": "Events",
+  "resourcesTitle" : "Resources",
+  "events": [
+    {"title": "First Event", "description": "Description of event"}
+  ]
 }
