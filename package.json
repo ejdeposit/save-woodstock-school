@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "mustache -p mustache_templates/navPartial.mustache mustache_templates/view.json mustache_templates/index.mustache > index.html",
     "build:en": "cp script.js style.css ./en/ && mustache -p mustache_templates/navPartial.mustache mustache_templates/view.json mustache_templates/index.mustache > en/index.html",
-    "build:zh": "cp script.js style.css ./zh/ && mustache -p mustache_templates/navPartial.mustache mustache_templates/viewZh.json mustache_templates/index.mustache > zh/index.html"
+    "build:zh": "cp script.js style.css ./zh/ && mustache -p mustache_templates/navPartial.mustache mustache_templates/viewZh.json mustache_templates/index.mustache > zh/index.html",
+    "build:all": "mustache -p mustache_templates/navPartial.mustache mustache_templates/view.json mustache_templates/index.mustache > index.html && cp script.js style.css ./zh/ && mustache -p mustache_templates/navPartial.mustache mustache_templates/viewZh.json mustache_templates/index.mustache > zh/index.html"
   },
   "repository": {
     "type": "git",

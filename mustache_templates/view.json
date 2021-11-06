@@ -1,4 +1,8 @@
 {
+  "navBar" : {
+    "translatedSitePath": "./zh/index.html",
+    "translatedSite": "Chinese Site"
+  },
   "navLinks": [
     {"name": "Home", "path": "./index.html"},
     {"name": "Take Action", "path": "./action.html"},
