@@ -16,7 +16,19 @@
   "actionTitle": "Action",
   "eventsTitle": "Events",
   "resourcesTitle" : "Resources",
-  "events": [
+  "action": {
+    "title": "Take Action" 
+  },
+  "events": {
+    "title": "Events", 
+    "eventList": [
+      {"title": "First Event", "description": "Description of event"}
+    ]
+  },
+  "resources": {
+    "title": "Resources" 
+  },
+  "eventList": [
     {"title": "First Event", "description": "Description of event"}
   ]
 }

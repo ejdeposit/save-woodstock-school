@@ -13,8 +13,16 @@
     "title": "节省伍德斯托克小学",
     "imgPath": "../unityCircle.jpg"
   },
-  "takeAction": "采取行动",
-  "eventsTitle": "活动",
-  "resourcesTitle" : "资源",
-  "events": []
+  "action": {
+    "title": "采取行动" 
+  },
+  "events": {
+    "title": "活动",
+    "eventList": [
+      {"title": "First Event", "description": "Description of event"}
+    ]
+  },
+  "resources": {
+    "title": "资源" 
+  }
 }
