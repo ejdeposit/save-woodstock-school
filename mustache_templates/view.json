@@ -17,7 +17,14 @@
     "chineseHidden": "hidden"
   },
   "action": {
-    "title": "Take Action" 
+    "title": "Take Action",
+    "actionList": [
+      {
+        "title": "SEGC FeedBack Form",
+        "textContent": "Share your feedback on the on the phase 2 process ",
+        "htmlContent": "<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSeWxpegJYeNhHpxDADaC_17uG0bCyyzb1IVpvoQvAAEtf_ZhQ/viewform\">here</a>"
+      }
+    ]
   },
   "events": {
     "title": "Events", 

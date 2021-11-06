@@ -14,10 +14,12 @@ body{
     margin-left: 0px;
     margin-right: 0px;
 }
+/* TODO mobile padding */
 main {
     display:flex;
     flex-direction: column;
     align-items: center;
+    padding: 1rem 5rem 5rem 1rem
 }
 div.page-title{
     text-align: center;
@@ -33,10 +35,13 @@ div.item, form.item{
 }
 h1 {
     color:  var(--secondary-color); 
+    font-size: 3rem;
 }
 h2 {
     font-size: medium;
-    
+}
+li {
+    font-size: 1.25rem;
 }
 h2#sub-title{
     font-size: 1.3rem;

@@ -17,7 +17,14 @@
     "chineseHidden": ""
   },
   "action": {
-    "title": "采取行动" 
+    "title": "采取行动",
+    "actionList": [
+      {
+        "title": "SEGC FeedBack Form",
+        "textContent": "",
+        "htmlContent": "<a area-label=\"分享您对我们第 2 阶段流程的反馈 \" href=\"https://docs.google.com/forms/d/19pJk7w7UsrWusSRXdd8ZY8epC9kpEbkhv83LWisymCY/edit\">分享您对我们第 2 阶段流程的反馈</a>"
+      }
+    ]
   },
   "events": {
     "title": "活动",

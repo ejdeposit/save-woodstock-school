@@ -17,7 +17,12 @@
   <body lang="{{{lang}}}">
     {{> navPartial}} 
     <main>
-	    <h1>{{action.title}}</h1>
+	    <h1>{{ action.title }}</h1>
+      <ul>
+        {{#action.actionList}}
+        <li><b>{{ title }}:</b> {{ textContent }}{{{ htmlContent }}}
+        {{/action.actionList}}
+      </ul>
     </main>
     <!--[if lt IE 7]>
         <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
