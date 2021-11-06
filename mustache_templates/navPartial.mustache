@@ -4,15 +4,15 @@
       <i class="fa fa-bars"></i>
     </div>
     <div id="links">
-      {{#navLinks}}
+      {{#navBar.links}}
       <div><a href="{{{path}}}">{{name}}</a></div>
-      {{/navLinks}}
+      {{/navBar.links}}
     </div>
     <div id="translations"><a href="{{{navBar.translatedSitePath}}}">{{navBar.translatedSite}}</a></div>
   </div>
   <div class="hidden drop-down">
-    {{#navLinks}}
+    {{#navBar.links}}
     <div><a href="{{{path}}}">{{name}}</a></div>
-    {{/navLinks}}
+    {{/navBar.links}}
   </div> 
 </nav>

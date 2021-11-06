@@ -1,14 +1,17 @@
 {
   "navBar" : {
     "translatedSitePath": "./zh/index.html",
-    "translatedSite": "Chinese Site"
+    "translatedSite": "Chinese Site",
+    "links": [
+      {"name": "Home", "path": "./index.html"},
+      {"name": "Take Action", "path": "./action.html"},
+      {"name": "Events", "path": "./events.html"},
+      {"name": "Resources", "path": "./resources.html"}
+    ]
   },
-  "navLinks": [
-    {"name": "Home", "path": "./index.html"},
-    {"name": "Take Action", "path": "./action.html"},
-    {"name": "Events", "path": "./events.html"},
-    {"name": "Resources", "path": "./resources.html"}
-  ],
+  "home": {
+    "title": false
+  },
   "homeTitle": "Save Woodstock School!",
   "actionTitle": "Action",
   "eventsTitle": "Events",
