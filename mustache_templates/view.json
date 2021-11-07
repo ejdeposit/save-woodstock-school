@@ -1,8 +1,9 @@
 {
+  "rootDirPath": "",
   "lang": "en",
   "navBar" : {
     "translatedSitePath": "./zh/index.html",
-    "translatedSite": "英文网站",
+    "translatedSite": "中文网站",
     "links": [
       {"name": "Home", "path": "./index.html"},
       {"name": "Take Action", "path": "./action.html"},
