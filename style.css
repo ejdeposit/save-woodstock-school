@@ -14,18 +14,11 @@ body{
     margin-left: 0px;
     margin-right: 0px;
 }
-/* TODO mobile padding */
 main {
     display:flex;
     flex-direction: column;
     align-items: center;
     padding: 1rem 5rem 5rem 1rem
-}
-div.page-title{
-    text-align: center;
-    color:  #eb554b;
-    font-size: 1.5rem;
-    font-family: 'Oswald', sans-serif;
 }
 div.item, form.item{
     padding: 2rem;
@@ -44,9 +37,6 @@ li {
     font-size: 1.25rem;
     margin-bottom: 1.5rem;
 }
-h2#sub-title{
-    font-size: 1.3rem;
-}
 a{
     color: var(--tertiary-color);
 }
@@ -61,7 +51,6 @@ a{
       display: none;
   }
 }
-
 /* nav bar */
 .nav-bar{
     display: flex;
@@ -152,141 +141,4 @@ div#events {
 }
 div#events a {
     max-width: 95%;
-}
-/* about*/
-#about{
-    display:flex;
-    flex-direction: column;
-    align-items: center;
-}
-div#headshot img{
-    border-radius: 150px;
-}
-div#about-text{
-    font-family: 'Lato', sans-serif;
-    font-size: 1.25rem;
-    margin-top: 40px;
-    max-width: 450px;
-}
-@media (max-width: 320px){
-    div#about-text{
-        width: 90%;
-    }
-}
-@media (max-width: 468px){
-    div#about-text{
-        max-width: 320px;
-    }
-}
-/* contact */
-div#contact-container{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-div#contact-form{
-    width: 25rem
-}
-@media (max-width: 468px){
-    div#contact-form{
-        max-width: 90%;
-    }
-}
-input, textarea{
-    border: 1px solid #dddddd;
-    height: 1.5rem;
-    border-radius: 5px;
-    width: 100%;
-}
-textarea{
-    height: 10rem;
-}
-button{
-    color: #555555;
-    padding: 5px;
-    font-size: 1rem;
-    border: 1px solid #dddddd;
-    background-color: #eba64b;
-    border-radius: 5px;
-}
-/*
-div#contact-container div p a{
-    color: #666666;
-}
-*/
-form div{
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-form div div{
-    margin-top: 5px;
-    margin-bottom: 5px;
-}
-div#contact-form p{
-    margin-left: 10px;
-    margin-right: 10px
-}
-/* ---------------------- 
-       projects 
-------------------------*/
-div#projects{
-    padding: 20px;
-    display: flex;
-    align-items: flex-start;
-    flex-wrap: wrap
-}
-/* padding inherited from item */
-div.project-item{
-    width: 320px;
-    margin-right: 20px;
-    margin-left: 20px;
-    margin-bottom: 30px;
-    
-}
-div.project-item h2{
-    color: #eb554b;
-}
-div.project-links{
-    margin-top: 20px;
-    font-size: 1.5rem;
-    padding-top: 20px;
-    border-top:1px solid #dddddd;
-    display: flex;
-    justify-content: space-between;
-
-}
-div.project-links div a{
-    color: inherit;
-    text-decoration: none;
-}
-div.project-links div.app-link a{
-    font-size: 1.10rem;
-    color: #eba64b;
-    text-decoration: underline;
-
-}
-div#project-footer{
-    position: sticky;
-    bottom: 0px;
-    text-align: center;
-    background-color: #eeeeee;
-}
-div.project-item img{
-    max-width: 100%;
-}
-/* do i need ot change all .items to small padding for mobile? */ 
-@media (max-width: 468px){
-    div#projects{
-        padding: 0px;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-    div.project-item{
-        width: 90%;
-        margin-right: 0px;
-        margin-left: 0px;
-        margin-bottom: 20px;
-        padding:10px;
-    }
 }

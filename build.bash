@@ -7,7 +7,6 @@ mustache -p mustache_templates/navPartial.mustache mustache_templates/view.json 
 mustache -p mustache_templates/navPartial.mustache mustache_templates/view.json mustache_templates/events.mustache > events.html 
 mustache -p mustache_templates/navPartial.mustache mustache_templates/view.json mustache_templates/resources.mustache > resources.html 
 #chinese
-cp script.js style.css ./zh/ 
 mustache -p mustache_templates/navPartial.mustache mustache_templates/viewZh.json mustache_templates/index.mustache > zh/index.html
 mustache -p mustache_templates/navPartial.mustache mustache_templates/viewZh.json mustache_templates/action.mustache > zh/action.html
 mustache -p mustache_templates/navPartial.mustache mustache_templates/viewZh.json mustache_templates/events.mustache > zh/events.html
