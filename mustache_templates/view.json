@@ -21,6 +21,11 @@
     "title": "Take Action",
     "actionList": [
       {
+        "title": "Konstella Parent Guardians Group SEGC Survey ",
+        "textContent": "Please take this internal, anonymous survey to help us develop a consistent and focused message to present to the SEGC and PPS. ",
+        "htmlContent": "<a href=\"https://forms.gle/rchac5T1KZ4ThJxy5\">Click here to take the survey</a>"
+      },
+      {
         "title": "SEGC FeedBack Form",
         "textContent": "",
         "htmlContent": "<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSeWxpegJYeNhHpxDADaC_17uG0bCyyzb1IVpvoQvAAEtf_ZhQ/viewform\">Share your feedback</a> on the on the phase 2 process."
@@ -32,8 +37,8 @@
       },
       {
         "title": "Petition to Save Woodstock School",
-        "textContent": "",
-        "htmlContent": " <a area-label=\"save woodstock petition\" href=\"https://www.change.org/p/save-woodstock-elementary-school-from-pps-s-proposed-changes?recruiter=1232412044&recruited_by_id=5d4dcfa0-3d19-11ec-8113-dd41d5443a92&utm_source=share_petition&utm_campaign=share_petition&utm_term=tap_basic_share&utm_medium=copylink&utm_content=cl_sharecopy_31265927_en-US%3A4\">Sign this petition</a> if your opposed to the proposed changes."
+        "textContent": "IMPORTANT: this site is soliciting other petitions and asking for donations. This is a free platform, just skip those requests.  Please DO NOT donate/contribute/chip in money.",
+        "htmlContent": " <a area-label=\"save woodstock petition\" href=\"https://www.change.org/p/save-woodstock-elementary-school-from-pps-s-proposed-changes?recruiter=1232412044&recruited_by_id=5d4dcfa0-3d19-11ec-8113-dd41d5443a92&utm_source=share_petition&utm_campaign=share_petition&utm_term=tap_basic_share&utm_medium=copylink&utm_content=cl_sharecopy_31265927_en-US%3A4\">Sign the petition</a>"
       }
 
     ]
