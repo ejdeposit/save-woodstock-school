@@ -1,5 +1,5 @@
 console.log('hello world!')
-document.querySelector('div#mobile-menu').addEventListener('click', ()=>{
+document.querySelector('button#mobile-menu').addEventListener('click', ()=>{
     console.log('hamburger click')
     let dropdown = document.querySelector('div.drop-down')
 
