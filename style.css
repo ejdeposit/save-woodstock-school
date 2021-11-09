@@ -145,7 +145,6 @@ width: 70%
 @media (max-width: 610px){
   main#home hr {
     width: 98%
-
   }
   .home-content {
     max-width: 95%;
