@@ -18,11 +18,13 @@
     {{> navPartial}} 
     <main>
 	    <h1>{{ action.title }}</h1>
-      <ul class="home-content" >
-        {{#action.actionList}}
-        <li><b>{{ title }}:</b> {{ textContent }}{{{ htmlContent }}}
-        {{/action.actionList}}
-      </ul>
+      <div class="main-content">
+        <ul>
+          {{#action.actionList}}
+          <li><b>{{ title }}:</b> {{ textContent }}{{{ htmlContent }}}
+          {{/action.actionList}}
+        </ul>
+      </div>
     </main>
     <!--[if lt IE 7]>
         <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>

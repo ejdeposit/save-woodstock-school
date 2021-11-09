@@ -20,12 +20,11 @@ main {
     align-items: center;
     padding: 1rem 5rem 5rem 1rem
 }
-div.item, form.item{
-    padding: 2rem;
-    border: 1px solid hsl(0, 0%, 87%);
-    border-radius: 8px;
-    box-shadow: 1px 1px #cccccc;
+/*
+div.main-content{
+    padding: 0, 4rem, 4rem, 0;
 }
+*/
 h1 {
     color:  var(--secondary-color); 
     font-size: 3rem;
@@ -40,6 +39,7 @@ li {
 a{
     color: var(--tertiary-color);
 }
+
 @media (max-width: 610px){
   h1 {
     font-size: 2.5rem;
@@ -128,7 +128,7 @@ div#unity_circle {
 img#unity_circle {
   display: block;
   margin: 0 auto;
-  max-width: 66%;
+  width: 68%;
 }
 main#home hr {
 border: 0;
@@ -139,18 +139,18 @@ background-color:#cccccc;
 height: 1px;
 width: 70%
 }
-.home-content {
-  max-width: 66%;
+.main-content {
+  width: 68%;
 }
 @media (max-width: 610px){
   main#home hr {
     width: 98%
   }
-  .home-content {
-    max-width: 95%;
+  .main-content {
+    width: 95%;
   }
   img#unity_circle {
-    max-width: 95%;
+    width: 95%;
   }
 }
 button#konstella-survey {
@@ -166,9 +166,6 @@ button#konstella-survey a:visited {
     color: #f6cc25;
 }
 /*events */
-div#events {
-    max-width: 95%;
-}
 div#events a {
-    max-width: 95%;
+    width: 95%;
 }
