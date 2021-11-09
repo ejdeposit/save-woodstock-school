@@ -31,7 +31,7 @@ h1 {
     font-size: 3rem;
 }
 h2 {
-    font-size: medium;
+    color: #4368b3;
 }
 li {
     font-size: 1.25rem;
@@ -130,10 +130,23 @@ img#unity_circle {
   margin: 0 auto;
   max-width: 66%;
 }
+main#home hr {
+border: 0;
+clear:both;
+display:block;
+width: 96%;               
+background-color:#cccccc;
+height: 1px;
+width: 70%
+}
 .home-content {
   max-width: 66%;
 }
 @media (max-width: 610px){
+  main#home hr {
+    width: 98%
+
+  }
   .home-content {
     max-width: 95%;
   }
