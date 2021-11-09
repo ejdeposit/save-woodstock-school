@@ -153,6 +153,18 @@ width: 70%
     max-width: 95%;
   }
 }
+button#konstella-survey {
+    background-color: var(--primary-color);
+    padding: .5em;
+}
+button#konstella-survey a {
+    font-size: 1.12rem;
+    color: #f6cc25;
+    text-decoration: none;
+}
+button#konstella-survey a:visited {
+    color: #f6cc25;
+}
 /*events */
 div#events {
     max-width: 95%;
