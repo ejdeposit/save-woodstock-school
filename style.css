@@ -1,8 +1,4 @@
-/*
-@import url(//fonts.googleapis.com/css?family=Open+Sans);
-*/
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+/* FIXME change color var names */
 :root {
     --primary-color: #235bcc;
     --secondary-color: #B8860B;
@@ -20,11 +16,6 @@ main {
     align-items: center;
     padding: 1rem 5rem 5rem 1rem
 }
-/*
-div.main-content{
-    padding: 0, 4rem, 4rem, 0;
-}
-*/
 h1 {
     color:  var(--secondary-color); 
     font-size: 3rem;
