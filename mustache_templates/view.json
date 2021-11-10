@@ -57,11 +57,15 @@
     "title": "Resources",
     "resourceList": [
       {
+        "textContent": "PTA/Shu Ren Community SEGC Discussion Recording, Nov 8th",
+        "htmlContent": "https://www.dropbox.com/s/6m54r15sfpkksl3/video1118831298.mp4?dl=0"
+      },
+      {
         "textContent": "PPS Enrollment and Program Balancing",
         "htmlContent": "https://www.pps.net/enrollmentbalancing"
       },
       {
-        "textContent": "Proposed School Boundary Line Change Map",
+        "textContent": "Proposed School Boundary Change Map",
         "htmlContent": "https://public.tableau.com/app/profile/rachel7691/viz/ScenarioModelingDashboard-SECG/OptionsDashboard"
       },
       {
