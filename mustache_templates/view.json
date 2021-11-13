@@ -21,6 +21,11 @@
     "title": "Take Action",
     "actionList": [
       {
+        "title": "Board Meeting Public Comment",
+        "textContent": "The next PPS board meeting will be held November 16th. Community members wishing to provide public comment can do so virtually. If you would like to sign up for public comment, please send an email with your first and last name, your school community, and topic to PublicComment@pps.net or call the Board Office at 503-916-3741. Requests for public comment will be processed in the order that they are received. Email and phone requests should be received by 12:00 pm the day of the meeting. Please note, public comment by any individual is limited to one time every 30 days. Written public comment may be sent to: ",
+        "htmlContent": "<a href=\"mailto:PublicComment@pps.net\">PublicComment@pps.net</a>."
+      },
+      {
         "title": "Konstella Parent Guardians Group SEGC Survey ",
         "textContent": "Please take this internal, anonymous survey to help us develop a consistent and focused message to present to the SEGC and PPS. ",
         "htmlContent": "<a href=\"https://forms.gle/rchac5T1KZ4ThJxy5\">Click here to take the survey</a>"
@@ -47,8 +52,18 @@
     "title": "Events", 
     "eventList": [
       {
-        "title": "SE Guiding Coalition Community Conversations, Continued", 
-        "textContent": "For the next Community Conversation on Tuesday, November 16 at 5:00 PM, Dr. Omogbehin, Regional Superintendent will be present.  This meeting will be a follow-up from the last Community Conversation regarding the Enrollment and Program Balancing proposals that were recently shared with the SE Guiding Coalition. You can join through the following Google Meet code/link: ",
+        "title": "PPS Board Meeting, Nov. 16th, 6pm", 
+        "textContent": "At this point, it is unclear what will be shared at the Board and SEGC meetings, but there will hopefully be an update on the existing proposals, the new proposal development, and next steps. You can watch the live stream through the link.",
+        "htmlContent": "<a href=\"https://www.youtube.com/user/ppscomms/live\">Live YouTube Channel</a>"
+      },
+      {
+        "title": "SECG Meeting, Nov 18th 6pm", 
+        "textContent": "At this point, it is unclear what will be shared at the Board and SEGC meetings, but there will hopefully be an update on the existing proposals, the new proposal development, and next steps. You can watch the live stream through the link.",
+        "htmlContent": "<a href=\"https://www.youtube.com/channel/UCTOk9wS-GWpQPVoDeOuD3BQ\">Live YouTube Channel</a>"
+      },
+      {
+        "title": "SE Guiding Coalition Community Conversations, RESCHEDULED Nov. 19th", 
+        "textContent": "The tentative agenda for the Woodstock Community Conversation will include a summary of the current status and space for families of the Woodstock Elementary community to share feedback with the District Representative, Dr. Omogbehin. You can join through the following Google Meet code/link: ",
         "htmlContent": "<a href=\"https://meet.google.com/kvr-uqkh-pfo\">https://meet.google.com/kvr-uqkh-pfo</a>"
       },
       {

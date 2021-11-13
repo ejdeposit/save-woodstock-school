@@ -23,9 +23,11 @@ h1 {
 h2 {
     color: #4368b3;
 }
-li {
-    font-size: 1.25rem;
+ul#resources li, ul#action li{
     margin-bottom: 1.5rem;
+}
+ul#resources li {
+    font-size: 1.25rem;
 }
 a{
     color: var(--tertiary-color);
