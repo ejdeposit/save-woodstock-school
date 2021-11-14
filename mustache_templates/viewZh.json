@@ -1,103 +1,111 @@
 {
-  "rootDirPath": "../",
-  "lang": "zh",
-  "navBar" : {
-    "translatedSitePath": "../index.html",
-    "translatedSite": "English Site",
-    "links": [
-      {"name": "主页", "path": "./index.html"},
-      {"name": "采取行动", "path": "./action.html"},
-      {"name": "活动", "path": "./events.html"},
-      {"name": "资源", "path": "./resources.html"}
-    ]
-  },
-  "home": {
-    "title": "拯救我们的学校",
-    "imgPath": "../unityCircle.jpg",
-    "englishHidden": "hidden",
-    "chineseHidden": ""
-  },
-  "action": {
-    "title": "采取行动",
-    "actionList": [
-      {
-        "title": "Board Meeting Public Comment",
-        "textContent": "The next PPS board meeting will be held November 16th. Community members wishing to provide public comment can do so virtually. If you would like to sign up for public comment, please send an email with your first and last name, your school community, and topic to PublicComment@pps.net or call the Board Office at 503-916-3741. Requests for public comment will be processed in the order that they are received. Email and phone requests should be received by 12:00 pm the day of the meeting. Please note, public comment by any individual is limited to one time every 30 days. Written public comment may be sent to: ",
-        "htmlContent": "<a href=\"mailto:PublicComment@pps.net\">PublicComment@pps.net</a>."
-      },
-      {
-        "title": "Konstella Parent Guardians Group SEGC Survey 东南指导联盟民意调查表 ",
-        "textContent": "请分享您对 PPS 提议的想法，疑虑， 和倾向。 这份调查将有助于统一重点，并将与 SEGC 代表 分享，也有可能上交PPS。 请每户只填写一份调查问卷。 回复是匿名的。",
-        "htmlContent": "<a href=\"https://forms.gle/rchac5T1KZ4ThJxy5\">https://forms.gle/rchac5T1KZ4ThJxy5</a>"
-      },
-      {
-        "englishId": "SEGC FeedBack Form",
-        "title": "SEGC FeedBack Form",
-        "textContent": "",
-        "htmlContent": "<a area-label=\"分享您对我们第 2 阶段流程的反馈 \" href=\"https://docs.google.com/forms/d/19pJk7w7UsrWusSRXdd8ZY8epC9kpEbkhv83LWisymCY/edit\">分享您对我们第 2 阶段流程的反馈</a>"
-      },
-      {
-        "englishId": "SEGC Question Comment Form",
-        "title": "SEGC Question Comment Form",
-        "textContent": "如果你对东南招生和项目平衡的方案有任何问题和意见，请提交此表。谢谢",
-        "htmlContent": "<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfEQ5gEMSGP9cEQeynESGD6cjUrYX2gra87PrOxXjqzSw_Jwg/viewform\">网站链接</a>"
-      },
-      {
-        "englishId": "Petition to Save Woodstock School",
-        "title": "Petition to Save Woodstock School",
-        "textContent": "如果您反对提议的更改，请签署此请愿书。请添加您的意见和建议的可能替代方案。抱歉，本网站正在征集广告并要求捐款。请不要捐钱。只是分散给别人签名而。",
-        "htmlContent": "<a area-label=\"如果您反对提议的更改，请签署此请愿书。请添加您的意见和建议的可能替代方案。\" href=\"https://www.change.org/p/save-woodstock-elementary-school-from-pps-s-proposed-changes?recruiter=1232412044&recruited_by_id=5d4dcfa0-3d19-11ec-8113-dd41d5443a92&utm_source=share_petition&utm_campaign=share_petition&utm_term=tap_basic_share&utm_medium=copylink&utm_content=cl_sharecopy_31265927_en-US%3A4\">网站链接</a>"
-      }
-    ]
-  },
-  "events": {
-    "title": "活动",
-    "eventList": [
-      {
-        "title": "PPS Board Meeting, Nov. 16th, 6pm", 
-        "textContent": "",
-        "htmlContent": "<a href=\"https://www.youtube.com/user/ppscomms/live\">Live YouTube Channel</a>"
-      },
-      {
-        "title": "SECG Meeting, Nov 18th 6pm", 
-        "textContent": "",
-        "htmlContent": "<a href=\"https://www.youtube.com/channel/UCTOk9wS-GWpQPVoDeOuD3BQ\">Live YouTube Channel</a>"
-      },
-      {
-        "title": "SE Guiding Coalition Community Conversations, RESCHEDULED Nov. 19th", 
-        "textContent": "For the next Community Conversation on Tuesday, November 19th at 5:00 PM, Dr. Omogbehin, Regional Superintendent will be present.  This meeting will be a follow-up from the last Community Conversation regarding the Enrollment and Program Balancing proposals that were recently shared with the SE Guiding Coalition. You can join through the following Google Meet code/link: ",
-        "htmlContent": "<a href=\"https://meet.google.com/kvr-uqkh-pfo\">https://meet.google.com/kvr-uqkh-pfo</a>"
-      },
-      {
-        "title": "PTA/Shu Ren Community SEGC Discussion", 
-        "textContent": "",
-        "htmlContent": "<p> <b>When:</b> Mon, Nov 8 7:00pm-9:00pm<br><b>Where:</b> Woodstock Elementary<br>Join us for a conversation about the latest information coming from the SEGC and how it will affect our community.<br>Here is the link to the PTA/Shu Ren SEGC Discussion meeting Monday November 8, 7:00-9:00:<br><a href=\"https://us02web.zoom.us/j/88241630869?pwd=UzExVXBmVk1xOFZNOTVlV1VTTTBGQT09\">Join Zoom Meeting</a><br><a href=\"https://us02web.zoom.us/j/88241630869?pwd=UzExVXBmVk1xOFZNOTVlV1VTTTBGQT09\" class=\"long-url\">https://us02web.zoom.us/j/88241630869?pwd=UzExVXBmVk1xOFZNOTVlV1VTTTBGQT09</a><br>Meeting ID: 882 4163 0869<br>Passcode: 807532</p>"
-      }
-    ]
-  },
-  "resources": {
-    "title": "资源",
-    "resourceList": [
-      {
-        "textContent": "PTA/Shu Ren Community SEGC Discussion Recording, Nov 8th",
-        "htmlContent": "https://www.dropbox.com/s/6m54r15sfpkksl3/video1118831298.mp4?dl=0"
-      },
-      {
-        "textContent": "PPS Enrollment and Program Balancing",
-        "htmlContent": "https://www.pps.net/enrollmentbalancing"
-      },
-      {
-        "textContent": "Proposed School Boundary Change Map",
-        "htmlContent": "https://public.tableau.com/app/profile/rachel7691/viz/ScenarioModelingDashboard-SECG/OptionsDashboard"
-      },
-      {
-        "textContent": "Arleta PTA",
-        "htmlContent": "http://www.arletapta.org/"
-      },
-      {
-        "textContent": "Save Atkinson",
-        "htmlContent": "https://www.saveatkinson.com/"
-      }
-    ]
-  }
+	"rootDirPath": "../",
+	"lang": "zh",
+	"navBar": {
+		"translatedSitePath": "../index.html",
+		"translatedSite": "English Site",
+		"links": [{
+				"name": "主页",
+				"path": "./index.html"
+			},
+			{
+				"name": "采取行动",
+				"path": "./action.html"
+			},
+			{
+				"name": "事件",
+				"path": "./events.html"
+			},
+			{
+				"name": "资源",
+				"path": "./resources.html"
+			}
+		]
+	},
+	"home": {
+		"title": "拯救我们的学校",
+		"imgPath": "../unityCircle.jpg",
+		"englishHidden": "hidden",
+		"chineseHidden": ""
+	},
+	"action": {
+		"title": "采取行动",
+		"actionList": [{
+				"title": "Board Meeting Public Comment董事会会议公众意见",
+				"textContent": "The next PPS board meeting will be held November 16th. Community members wishing to provide public comment can do so virtually. If you would like to sign up for public comment, please send an email with your first and last name, your school community, and topic to PublicComment@pps.net or call the Board Office at 503-916-3741. Requests for public comment will be processed in the order that they are received. Email and phone requests should be received by 12:00 pm the day of the meeting. Please note, public comment by any individual is limited to one time every 30 days. Written public comment may be sent to: 下一次 PPS 董事会会议将于 11 月 16 日举行。 社区成员可以注册 申请在董事会会议上提供公众评论。 如果您想注册， 请将您的姓名、 学校社区和主题发电子邮件至 PublicComment @pps.net， 或致电董事会办公室 503 - 916 - 3741。 公众评论要求将按照收到的顺序进行处理。 电子邮件和电话应在会议当天下午 12: 00 之前收到。 请注意， 任何个人的公开评论仅限于每 30 天一次。 书面公众意见可发送至： ",
+				"htmlContent": "<a href=\"mailto:PublicComment@pps.net\">PublicComment@pps.net</a>."
+			},
+			{
+				"title": "Konstella Parent Guardians Group SEGC Survey 东南指导联盟民意调查问卷 ",
+				"textContent": "请填写这份内部匿名问卷，这将有助于我们制定统一、一致的主张，与SEGC代表和PPS分享。 请每户只填写一份调查问卷。",
+				"htmlContent": "<a href=\"https://forms.gle/rchac5T1KZ4ThJxy5\">https://forms.gle/rchac5T1KZ4ThJxy5</a>"
+			},
+			{
+				"englishId": "SEGC FeedBack Form",
+				"title": "SEGC FeedBack Form东南指导联盟反馈表（PPS问卷）",
+				"textContent": "",
+				"htmlContent": "<a area-label=\"分享您对东南指导联盟第 2 阶段工作的反馈 \" href=\"https://docs.google.com/forms/d/19pJk7w7UsrWusSRXdd8ZY8epC9kpEbkhv83LWisymCY/edit\">分享您对我们第 2 阶段流程的反馈</a>"
+			},
+			{
+				"englishId": "SEGC Question Comment Form",
+				"title": "SEGC Question Comment Form东南指导联盟意见反馈表",
+				"textContent": "如果您对东南指导联盟正在讨论的招生和项目平衡的方案有任何问题和意见，请提交此表。谢谢",
+				"htmlContent": "<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfEQ5gEMSGP9cEQeynESGD6cjUrYX2gra87PrOxXjqzSw_Jwg/viewform\">网站链接</a>"
+			},
+			{
+				"englishId": "Petition to Save Woodstock School",
+				"title": "Petition to Save Woodstock School 拯救伍德思道克小学请愿书",
+				"textContent": "请注意-该网站会请您签署其他请愿书并要求捐款。请不要捐钱。其他请愿书与我们的请愿书无关。",
+				"htmlContent": "<a area-label=\"如果您反对提议的更改，请签署此请愿书。请添加您的意见和建议的可能替代方案。\" href=\"https://www.change.org/p/save-woodstock-elementary-school-from-pps-s-proposed-changes?recruiter=1232412044&recruited_by_id=5d4dcfa0-3d19-11ec-8113-dd41d5443a92&utm_source=share_petition&utm_campaign=share_petition&utm_term=tap_basic_share&utm_medium=copylink&utm_content=cl_sharecopy_31265927_en-US%3A4\">点击此处签署请愿书</a>"
+			}
+		]
+	},
+	"events": {
+		"title": "事件",
+		"eventList": [{
+				"title": "PPS Board Meeting, Nov. 16th, 6pm PPS董事会会议，11月16日下午6点",
+				"textContent": "我们暂时不清楚董事会会议和东南指导联盟工作会的内容，猜想应该会对现有的提案、新的提案以及下一步的工作发布新的信息",
+				"htmlContent": "<a href=\"https://www.youtube.com/user/ppscomms/live\">点击此处观看YouTube会议</a>"
+			},
+			{
+				"title": "SECG Meeting, Nov 18th 6pm 东南指导联盟工作会议， 11月18日下午6点",
+				"textContent": "",
+				"htmlContent": "<a href=\"https://www.youtube.com/channel/UCTOk9wS-GWpQPVoDeOuD3BQ\">点击此处观看YouTube会议</a>"
+			},
+			{
+				"title": "SE Guiding Coalition Community Conversations, RESCHEDULED Nov. 19th 东南指导联盟社区讨论会改到11月19日",
+				"textContent": "For the next Community Conversation on Friday, November 19th at 5:00 PM, Dr. Omogbehin, Regional Superintendent will be present.  This meeting will be a follow-up from the last Community Conversation regarding the Enrollment and Program Balancing proposals that were recently shared with the SE Guiding Coalition. You can join through the following Google Meet code/link: 地区校监Omogbehin 博士将出席 11 月 19 日星期五下午 5 点举行的社区对话。这次对话将是上次社区对话的后续会议， 讨论最近与东南指导联盟分享的招生和项目平衡提案。 您可以通过以下 Google Meet 代码 / 链接参加会议： ",
+				"htmlContent": "<a href=\"https://meet.google.com/kvr-uqkh-pfo\">https://meet.google.com/kvr-uqkh-pfo</a>"
+			},
+			{
+				"title": "PTA/Shu Ren Community SEGC Discussion 家长教师协会/树人社区讨论会",
+				"textContent": "",
+				"htmlContent": "<p> <b>时间:</b> Mon, Nov 8 7:00pm-9:00pm<br><b>Where:</b> Woodstock Elementary<br>Join us for a conversation about the latest information coming from the SEGC and how it will affect our community.<br>Here is the link to the PTA/Shu Ren SEGC Discussion meeting Monday November 8, 7:00-9:00:<br><a href=\"https://us02web.zoom.us/j/88241630869?pwd=UzExVXBmVk1xOFZNOTVlV1VTTTBGQT09\">Join Zoom Meeting</a><br><a href=\"https://us02web.zoom.us/j/88241630869?pwd=UzExVXBmVk1xOFZNOTVlV1VTTTBGQT09\" class=\"long-url\">https://us02web.zoom.us/j/88241630869?pwd=UzExVXBmVk1xOFZNOTVlV1VTTTBGQT09</a><br>Meeting ID: 882 4163 0869<br>Passcode: 807532</p>"
+			}
+		]
+	},
+	"resources": {
+		"title": "资源",
+		"resourceList": [{
+				"textContent": "PTA/Shu Ren Community SEGC Discussion Recording, Nov 8th 11月8日家长教师协会/树人社区讨论会录音",
+				"htmlContent": "https://www.dropbox.com/s/6m54r15sfpkksl3/video1118831298.mp4?dl=0"
+			},
+			{
+				"textContent": "PPS Enrollment and Program Balancing PPS招生和项目平衡计划网站",
+				"htmlContent": "https://www.pps.net/enrollmentbalancing"
+			},
+			{
+				"textContent": "Proposed School Boundary Change Map 学区边界图提案",
+				"htmlContent": "https://public.tableau.com/app/profile/rachel7691/viz/ScenarioModelingDashboard-SECG/OptionsDashboard"
+			},
+			{
+				"textContent": "Arleta PTA Arleta 小学家长教师协会",
+				"htmlContent": "http://www.arletapta.org/"
+			},
+			{
+				"textContent": "Save Atkinson 拯救Atkinson小学",
+				"htmlContent": "https://www.saveatkinson.com/"
+			}
+		]
+	}
 }
