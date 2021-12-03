@@ -36,11 +36,6 @@
 				"htmlContent": "<a href=\"mailto:PublicComment@pps.net\">PublicComment@pps.net</a>."
 			},
 			{
-				"title": "Konstella Parent Guardians Group SEGC Survey 东南指导联盟民意调查问卷 ",
-				"textContent": "请填写这份内部匿名问卷，这将有助于我们制定统一、一致的主张，与SEGC代表和PPS分享。 请每户只填写一份调查问卷。",
-				"htmlContent": "<a href=\"https://forms.gle/rchac5T1KZ4ThJxy5\">https://forms.gle/rchac5T1KZ4ThJxy5</a>"
-			},
-			{
 				"englishId": "SEGC FeedBack Form",
 				"title": "SEGC FeedBack Form东南指导联盟反馈表（PPS问卷）",
 				"textContent": "",
@@ -62,7 +57,13 @@
 	},
 	"events": {
 		"title": "事件",
-		"eventList": [{
+		"eventList": [
+			{
+				"title": "SECG Meeting, Dec. 2nd, 6pm", 
+				"textContent": "Community engagement update, Decide on scenarios for community engagement, Review impact to BIPOC and other groups, Narrow scenario set through consensus exercise. ",
+				"htmlContent": "<a href=\"https://www.youtube.com/channel/UCTOk9wS-GWpQPVoDeOuD3BQ\">Live YouTube Channel</a>"
+			},
+			{
 				"title": "PPS Board Meeting, Nov. 16th, 6pm PPS董事会会议，11月16日下午6点",
 				"textContent": "我们暂时不清楚董事会会议和东南指导联盟工作会的内容，猜想应该会对现有的提案、新的提案以及下一步的工作发布新的信息",
 				"htmlContent": "<a href=\"https://www.youtube.com/user/ppscomms/live\">点击此处观看YouTube会议</a>"

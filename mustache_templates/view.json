@@ -26,11 +26,6 @@
         "htmlContent": "<a href=\"mailto:PublicComment@pps.net\">PublicComment@pps.net</a>."
       },
       {
-        "title": "Konstella Parent Guardians Group SEGC Survey ",
-        "textContent": "Please take this internal, anonymous survey to help us develop a consistent and focused message to present to the SEGC and PPS. ",
-        "htmlContent": "<a href=\"https://forms.gle/rchac5T1KZ4ThJxy5\">Click here to take the survey</a>"
-      },
-      {
         "title": "SEGC FeedBack Form",
         "textContent": "",
         "htmlContent": "<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSeWxpegJYeNhHpxDADaC_17uG0bCyyzb1IVpvoQvAAEtf_ZhQ/viewform\">Share your feedback</a> on the on the phase 2 process."
@@ -51,6 +46,11 @@
   "events": {
     "title": "Events", 
     "eventList": [
+      {
+        "title": "SECG Meeting, Dec. 2nd, 6pm", 
+        "textContent": "Community engagement update, Decide on scenarios for community engagement, Review impact to BIPOC and other groups, Narrow scenario set through consensus exercise. ",
+        "htmlContent": "<a href=\"https://www.youtube.com/channel/UCTOk9wS-GWpQPVoDeOuD3BQ\">Live YouTube Channel</a>"
+      },
       {
         "title": "PPS Board Meeting, Nov. 16th, 6pm", 
         "textContent": "At this point, it is unclear what will be shared at the Board and SEGC meetings, but there will hopefully be an update on the existing proposals, the new proposal development, and next steps. You can watch the live stream through the link.",
