@@ -59,6 +59,21 @@
 		"title": "事件",
 		"eventList": [
 			{
+				"title": "SE Guiding Coalition Meeting, January 6th, 6:00 PM", 
+				"textContent": "",
+				"htmlContent": "<a href=\"https://www.youtube.com/channel/UCTOk9wS-GWpQPVoDeOuD3BQ\">Live YouTube Channel</a>"
+			      },
+			      {
+				"title": "SEGC Cantonese Virtual Open House, December 15th, 4:00-5:30 PM", 
+				"textContent": "You are invited to have your voice heard, share your experiences, and help adapt the proposals in the enrollment and program balancing process. ",
+				"htmlContent": "<a href=\"https://pps-net.zoom.us/j/84768464939\">https://pps-net.zoom.us/j/84768464939</a>"
+			      },
+			      {
+				"title": "SE Guiding Coalition Meeting, December 16th, 6:00 PM ", 
+				"textContent": "",
+				"htmlContent": "<a href=\"https://www.youtube.com/channel/UCTOk9wS-GWpQPVoDeOuD3BQ\">Live YouTube Channel</a>"
+			      },
+			{
 				"title": "SECG Meeting, Dec. 2nd, 6pm", 
 				"textContent": "Community engagement update, Decide on scenarios for community engagement, Review impact to BIPOC and other groups, Narrow scenario set through consensus exercise. ",
 				"htmlContent": "<a href=\"https://www.youtube.com/channel/UCTOk9wS-GWpQPVoDeOuD3BQ\">Live YouTube Channel</a>"
